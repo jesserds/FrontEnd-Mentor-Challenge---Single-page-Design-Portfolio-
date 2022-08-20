@@ -1,1 +1,1 @@
-# FrontEnd-Mentor-Challenge---Single-page-Design-Portfolio-
+# FrontEnd Mentor Challenge 1: Single page design portfolio
